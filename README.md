@@ -1,8 +1,8 @@
 # DEST [ICLR 2025](https://openreview.net/forum?id=Tisu1L0Jwt)
 
 ## State Space Model Meets Transformer: A New Paradigm for 3D Object Detection
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/state-space-model-meets-transformer-a-new/3d-object-detection-on-scannetv2)](https://paperswithcode.com/sota/3d-object-detection-on-scannetv2?p=state-space-model-meets-transformer-a-new)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/state-space-model-meets-transformer-a-new/3d-object-detection-on-sun-rgbd-val)](https://paperswithcode.com/sota/3d-object-detection-on-sun-rgbd-val?p=state-space-model-meets-transformer-a-new)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/state-space-model-meets-transformer-a-new-1/3d-object-detection-on-scannetv2)](https://paperswithcode.com/sota/3d-object-detection-on-scannetv2?p=state-space-model-meets-transformer-a-new-1)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/state-space-model-meets-transformer-a-new-1/3d-object-detection-on-sun-rgbd-val)](https://paperswithcode.com/sota/3d-object-detection-on-sun-rgbd-val?p=state-space-model-meets-transformer-a-new-1)
 
 By [Chuxin Wang](https://chuxwa.github.io/), Wenfei Yang, Xiang Liu, and Tianzhu Zhang.
 
