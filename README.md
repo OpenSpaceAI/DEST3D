@@ -54,14 +54,15 @@ Our testing environment is based on python==3.8.19, pytorch==1.12.1+cu113, and t
 Note that the first execution of the code will be relatively slow due to Triton's JIT (Just-In-Time) compilation process, but subsequent runs will achieve normal speed as the compiled kernels are cached.
 
 Below are our simple test results on a single NVIDIA RTX 3090 GPU:
-'''
+
+```
 1: Time taken: 0.0014648370000003297 seconds
 2: Time taken: 0.0015144770000006247 seconds
 3: Time taken: 0.0014919310000038877 seconds
 4: Time taken: 0.001444603999999572 seconds
 5: Time taken: 0.001540446000007023 seconds
 6: Time taken: 0.0014789960000030078 seconds
-'''
+```
 
 ## Acknowledgements
 
