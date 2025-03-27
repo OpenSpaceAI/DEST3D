@@ -48,8 +48,11 @@ In the ISSM, we model the query points as the system states and the scene points
 - [Planned Releases] DEST Framework (based on VDETR)
 
 Please refer to [test_issm.py](test_issm.py) for using the ISSM module. 
+
 Our testing environment is based on python==3.8.19, pytorch==1.12.1+cu113, and triton==3.0.0. 
+
 Note that the first execution of the code will be relatively slow due to Triton's JIT (Just-In-Time) compilation process, but subsequent runs will achieve normal speed as the compiled kernels are cached.
+
 Below are our simple test results on a single NVIDIA RTX 3090 GPU:
 '''
 1: Time taken: 0.0014648370000003297 seconds
